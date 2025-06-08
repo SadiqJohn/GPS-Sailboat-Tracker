@@ -9,7 +9,8 @@ This project tracks GPS coordinates during a sailboat trip using an Arduino MKR 
 
 - Arduino MKR ZERO
 - GT-U7 GPS Module
-- SD Card for data storage
+- micro‑SD card (≥ 128 MB is plenty)
+- 10 400 mAh USB power bank (≈ 24 h run‑time margin)
 
 ## Files
 
