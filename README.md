@@ -19,13 +19,16 @@ This project tracks GPS coordinates during a sailboat trip using an Arduino MKR 
 
 ## How to Use
 
-### On the Boat
+### At Home
 
 1. Upload the `GPS_to_SD.ino` sketch to your Arduino MKR ZERO.
-2. Ensure the GT-U7 GPS module is connected correctly.
-3. Let the device log GPS data automatically every 5 minutes.
 
-### At Home
+### On the Boat
+
+1. Ensure the GT-U7 GPS module is connected correctly.
+2. Let the device log GPS data automatically every 5 minutes.
+
+### Back At Home
 
 1. Transfer the generated `GPSLOG.CSV` from the SD card to your computer.
 2. Run the Python script:
