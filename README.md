@@ -44,6 +44,12 @@ This project tracks GPS coordinates during a sailboat trip using an Arduino MKR 
 - Clickable markers showing timestamp and boat speed
 - Satellite imagery for realistic mapping
 
+## Example Output
+
+Below is a static preview of the HTML map generated from my sailing sessions.
+
+![gps_path_preview](images/gps_path_preview.png)
+
 ## Requirements
 
 - Python libraries: `pandas`, `folium`
